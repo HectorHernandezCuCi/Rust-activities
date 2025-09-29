@@ -1,0 +1,2 @@
+# Rust-activities
+Learning Rust
